@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Sobhan 👋
 
-<!--
-**sobhan05h/sobhan05h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer Engineering Student
 
-Here are some ideas to get you started:
+💻 Passionate about Programming, Data Analysis, Machine Learning and Artificial Intelligence.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+- Python Developer
+- Data Analysis Enthusiast
+- Learning Machine Learning & Data Science
+- Front-End Fundamentals (HTML & CSS)
+### Always learning new technologies and improving my skills
+
+## Current Goals
+
+- Build real-world Data Analysis projects
+- Advance in Machine Learning and AI
+- Develop professional programming skills
+- Contribute to open-source projects
+
+## Technologies & Tools
+
+- Python
+- mongodb
+- SQL
+- Pandas
+- NumPy
+- Scikit-Learn
+- GitHub
+- Git
+- HTML
+- CSS
+- macOS
+
+## Motto
+
+"The best version is under development."
