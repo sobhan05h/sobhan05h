@@ -8,11 +8,11 @@
 
 ### 👨‍💻 About Me
 
-I am a passionate **Computer Engineering Student** dedicated to solving real-world problems using data and code. Currently expanding my horizons in Artificial Intelligence and Machine Learning while building efficient software solutions.
+I am a passionate **Computer Engineering Student** dedicated to solving real-world problems using data, backend architectures, and machine learning. I love building automated tools, crafting interactive data dashboards, and designing robust databases.
 
 - 🎓 **Education:** Computer Engineering Student
-- 💡 **Interests:** Data Science, Machine Learning, AI, and Open Source
-- 🌱 **Current Focus:** Advanced ML algorithms and real-world Data Analysis projects
+- 💡 **Interests:** Data Science, Backend Development, Telegram Bots, and AI
+- 🌱 **Current Focus:** Advanced ML algorithms and scaling Python applications
 - 🚀 **Core Belief:** Always learning, iterating, and improving.
 
 ---
@@ -21,14 +21,26 @@ I am a passionate **Computer Engineering Student** dedicated to solving real-wor
 
 <align="left">
 
-#### 🐍 Data Science & Backend
+#### 🐍 Python & Backend Development
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=4MQ)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-0052CC?style=for-the-badge&logo=git&logoColor=white)
+
+#### 📊 Data Science & Visualization
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%234c72b0.svg?style=for-the-badge&logo=SciPy&logoColor=white)
 
-#### 🗄️ Databases & Tools
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+#### 🖥️ GUIs, Dashboards & Automation
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=Qt&logoColor=white)
+![Telegram Bots](https://img.shields.io/badge/Telegram_Bots-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
+
+#### 🗄️ Databases & Infrastructure
+![MongoDB](https://img.shields.io/badge/MongoDB_Robust_DB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
@@ -39,6 +51,16 @@ I am a passionate **Computer Engineering Student** dedicated to solving real-wor
 ![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
 </align>
+
+---
+
+### 🚀 What I Do / Expertise
+
+* 🤖 **Telegram Bot Development:** Designing and deploying smart, asynchronous bots to automate tasks and manage services.
+* 📊 **Interactive Dashboards & GUIs:** Building data-driven web apps using **Streamlit** and desktop applications with **Qt**.
+* 🌐 **API & Backend Architecture:** Creating fast, validated APIs using **FastAPI** and **Pydantic** for seamless data modeling.
+* 📐 **Advanced Data Visualization:** Transforming raw data into insights using **Matplotlib** and **Seaborn**.
+* 📡 **Web Scraping & HTTP Requests:** Fetching and handling external data using the **Requests** library.
 
 ---
 
