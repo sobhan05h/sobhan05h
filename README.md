@@ -54,8 +54,8 @@ I am a passionate **Computer Engineering Student** dedicated to solving real-wor
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical&rank_icon=github" alt="Sobhan's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sobhan05h&show_icons=true&theme=radical&rank_icon=github" alt="Sobhan's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sobhan05h&layout=compact&theme=radical" alt="Top Langs" />
 </div>
 
 ---
